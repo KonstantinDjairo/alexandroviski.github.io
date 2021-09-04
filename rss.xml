@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Improved Means for Achieving Deteriorated Ends</title> <link></link> <atom:link href="/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Sat, 04 Sep 2021 10:15:46 -0400</pubDate> <item> <title>2021-09-03</title> <link>/posts/2021-09-03.html</link> <pubDate>2021-09-03 23:55:05</pubDate> <author>ronnie</author> <guid isPermaLink="true">/posts/2021-09-03.html</guid> <category><![CDATA[ bar ]]></category><category><![CDATA[ baz ]]></category> <description><![CDATA[ <!-- **** your post here (remove this line) **** -->
+
+<!-- format: could be 'html' (for raw html) or 'md' (for markdown).  -->
+
+<p>Here is my content.</p>
+
+<!--more-->
+
+<p>Excerpt separator can also be extracted from content.
+Add <code>excerpt: &lt;string&gt;</code> to the above metadata.
+Excerpt separator is <code>&lt;!--more--&gt;</code> by default.</p>
+ ]]></description> </item> </channel> </rss>
