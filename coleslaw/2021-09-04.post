@@ -1,0 +1,17 @@
+;;;;;
+title: 2021-09-04
+tags: what, test
+date: 2021-09-04 11:55:07
+format: md
+;;;;;
+
+<!-- **** your post here (remove this line) **** -->
+<!-- format: could be 'html' (for raw html) or 'md' (for markdown).  -->
+
+Here is my first post,just for test
+
+<!--more-->
+
+Excerpt separator can also be extracted from content.
+Add `excerpt: <string>` to the above metadata.
+Excerpt separator is `<!--more-->` by default.
